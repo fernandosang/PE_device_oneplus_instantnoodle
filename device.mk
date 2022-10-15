@@ -22,8 +22,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    AlertSliderOverlay \
     EvolutionSettingsResTarget \
-    EvolutionSystemUIResTarget \
     OPlusFrameworksResTarget \
     OPlusExtrasResTarget \
     OPlusSettingsProviderResTarget \
